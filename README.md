@@ -130,8 +130,3 @@ jupyter notebook Credit_Card_Approval_Prediction.ipynb
 ## 📝 License
 
 This project is open source and available for educational purposes.
-
-## 👤 Author
-
-**Freya Ng**
-- GitHub: [@Freya-Ng](https://github.com/Freya-Ng)
